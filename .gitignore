@@ -1,0 +1,6 @@
+*.pt
+.idea
+annotations.json
+runs
+.DS_Store
+generated_data.json
