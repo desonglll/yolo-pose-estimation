@@ -1,0 +1,10 @@
+[
+    {
+        "image_path": "./g1.png",
+        "predicted_label": "jump"
+    },
+    {
+        "image_path": "./g2.png",
+        "predicted_label": "jump"
+    }
+]
